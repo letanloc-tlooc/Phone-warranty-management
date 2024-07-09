@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "651ef0556da50dfa1ff14096"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ef4a96da50dfa1ff14097"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Galaxy J7",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 3100,
+    "dungLuong": 64,
+    "heDieuhanh": "Android",
+    "mau": "vàng",
+    "kichThuoc": "6.0 inches"
+  },
+  "gia": 6000000,
+  "ngayMua": {
+    "$date": "2023-07-17T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Ngô Gia Cường",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987654321",
+    "lichSuBH": [
+      {
+        "tenSanPham": "tủ lạnh",
+        "vanDe": "Hỏng máy nén",
+        "bienPhap": "Thay máy nén",
+        "ngayGiao": {
+          "$date": "2023-09-02T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-10-10T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng loa",
+    "tenKTV": "Lương Duy Minh",
+    "bienPhap": "Thay loa",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ef6066da50dfa1ff14098"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Máy giặt",
+  "loaiSanPham": {
+    "tenLoai": "Điện lạnh",
+    "longMay": "Đứng",
+    "khoiLuong": 10,
+    "chatLieu": "Thép",
+    "trongLuong": 60,
+    "kichThuoc": "85x60"
+  },
+  "gia": 6000000,
+  "ngayMua": {
+    "$date": "2023-02-03T00:00:00.000Z"
+  },
+  "thoiGianBH": 15,
+  "khachHang": {
+    "hoten": "Nguyễn Mạnh An",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987654322",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Bếp điện",
+        "vanDe": "Hỏng mâm nhiệt",
+        "bienPhap": "Thay mâm nhiệt",
+        "ngayGiao": {
+          "$date": "2023-06-10T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-13T17:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng bơm nước",
+    "tenKTV": "Trần Duy Khương",
+    "bienPhap": "Thay bơm nước",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ef7046da50dfa1ff14099"
+  },
+  "thuongHieu": "LG",
+  "tenSanPham": "Máy giặt",
+  "loaiSanPham": {
+    "tenLoai": "Điện lạnh",
+    "longMay": "Ngang",
+    "khoiLuong": 9,
+    "chatLieu": "Thép không gỉ",
+    "trongLuong": 55,
+    "kichThuoc": "80x65"
+  },
+  "gia": 7000000,
+  "ngayMua": {
+    "$date": "2023-07-11T17:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Hà Quang Hải",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987654323",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": ""
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-14T17:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng động cơ",
+    "tenKTV": "Trần Hải Hùng",
+    "bienPhap": "Thay mới",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ef8116da50dfa1ff1409a"
+  },
+  "thuongHieu": "Apple",
+  "tenSanPham": "Iphone 10",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 6000,
+    "dungLuong": 128,
+    "heDieuhanh": "IOS",
+    "mau": "xám",
+    "kichThuoc": "7.0 inches"
+  },
+  "gia": 15000000,
+  "ngayMua": {
+    "$date": "2022-07-03T17:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Lê Quý Dân",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987654324",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Điện thoại",
+        "vanDe": "Bể màn hình",
+        "bienPhap": "Thay màn hình",
+        "ngayGiao": {
+          "$date": "2023-01-22T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": "",
+    "vanDeYC": "",
+    "tenKTV": "",
+    "bienPhap": "",
+    "trangThai": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "651ef9b66da50dfa1ff1409b"
+  },
+  "thuongHieu": "Oppo",
+  "tenSanPham": "Oppo F9",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 5100,
+    "dungLuong": 64,
+    "heDieuhanh": "Android",
+    "mau": "trắng",
+    "kichThuoc": "6.5 inches"
+  },
+  "gia": 9000000,
+  "ngayMua": {
+    "$date": "2022-04-22T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Cao Gia Mẫn",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987654325",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Nồi cơm điện",
+        "vanDe": "Hỏng rơ le nhiệt",
+        "bienPhap": "Thay mới rơ le",
+        "ngayGiao": {
+          "$date": "2022-11-22T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-09T00:00:00.000Z"
+    },
+    "vanDeYC": "Lỗi cảm ứng",
+    "tenKTV": "Bùi Nguyễn Hữu Minh",
+    "bienPhap": "Thay cảm ứng",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651efb106da50dfa1ff1409c"
+  },
+  "thuongHieu": "LG",
+  "tenSanPham": "nồi cơm điện ",
+  "loaiSanPham": {
+    "tenLoai": "Điện ga dụng",
+    "dungTich": 2,
+    "Congsuat": 500,
+    "trongLuong": 2,
+    "chatlieu": "Nhôm",
+    "nhietDo": "60-100"
+  },
+  "gia": 1200000,
+  "ngayMua": {
+    "$date": "2021-04-25T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Phạm Nguyễn Anh Tú",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987654355",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Nồi cơm điện",
+        "vanDe": "Hỏng mâm nhiệt",
+        "bienPhap": "Thay mâm nhiệt",
+        "ngayGiao": {
+          "$date": "2022-03-10T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": "",
+    "vanDeYC": "",
+    "tenKTV": "",
+    "bienPhap": "",
+    "trangThai": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "651efcaf6da50dfa1ff1409d"
+  },
+  "thuongHieu": "Panasonic",
+  "tenSanPham": "Máy sấy tóc",
+  "loaiSanPham": {
+    "tenLoai": "Điện ga dụng",
+    "dungTich": 0.2,
+    "Congsuat": 1000,
+    "trongLuong": 1,
+    "chatlieu": "Nhựa ABS",
+    "nhietDo": "100-200"
+  },
+  "gia": 700000,
+  "ngayMua": {
+    "$date": "2023-01-16T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Nguyễn Bá Khá",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987656355",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": ""
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-04-28T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng cầu chì",
+    "tenKTV": "Bùi Công Nam",
+    "bienPhap": "Thay mới",
+    "trangThai": "Đã giao"
+  }
+},
+{
+  "_id": {
+    "$oid": "651efd8a6da50dfa1ff1409e"
+  },
+  "thuongHieu": "LG",
+  "tenSanPham": "Máy sấy tóc",
+  "loaiSanPham": {
+    "tenLoai": "Điện ga dụng",
+    "dungTich": 0.3,
+    "Congsuat": 1500,
+    "trongLuong": 1.5,
+    "chatlieu": "Kim loại",
+    "nhietDo": "100-200"
+  },
+  "gia": 800000,
+  "ngayMua": {
+    "$date": "2023-01-20T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Nguyễn Hương Giang",
+    "diaChi": "Vĩnh Long",
+    "sđt": "0987156355",
+    "lichSuBH": [
+      {
+        "tenSanPham": "điện thoại",
+        "vanDe": "Hỏng pin",
+        "bienPhap": "Thay pin",
+        "ngayGiao": {
+          "$date": "2023-05-04T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-08-27T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng motor",
+    "tenKTV": "Hồ Anh Lan",
+    "bienPhap": "Thay mới motor",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651efe9e6da50dfa1ff1409f"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Galaxy J10",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 5500,
+    "dungLuong": 128,
+    "heDieuhanh": "Android",
+    "mau": "hồng",
+    "kichThuoc": "6.1 inches"
+  },
+  "gia": 9500000,
+  "ngayMua": {
+    "$date": "2022-12-14T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Huỳnh Tuấn Kiệt",
+    "diaChi": "Long An",
+    "sđt": "0987654925",
+    "lichSuBH": [
+      {
+        "tenSanPham": "tủ lạnh",
+        "vanDe": "Hỏng bơm nước",
+        "bienPhap": "Thay bơm nước",
+        "ngayGiao": {
+          "$date": "2023-05-29T17:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-05-25T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng màn hình",
+    "tenKTV": "Lê Sỹ Đạt Khoa",
+    "bienPhap": "Thay màn hình",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f00066da50dfa1ff140a0"
+  },
+  "thuongHieu": "Panasonic",
+  "tenSanPham": "Bếp điện",
+  "loaiSanPham": {
+    "tenLoai": "Điện ga dụng",
+    "dungTich": 3,
+    "Congsuat": 1000,
+    "trongLuong": 1.5,
+    "chatlieu": "Nhựa ABS",
+    "nhietDo": "60-200"
+  },
+  "gia": 500000,
+  "ngayMua": {
+    "$date": "2022-04-01T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Lưu Chí An",
+    "diaChi": "Tây Ninh",
+    "sđt": "0985654355",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Nồi cơm điện",
+        "vanDe": "Hỏng mâm nhiệt",
+        "bienPhap": "Thay mâm nhiệt",
+        "ngayGiao": {
+          "$date": "2023-03-29T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-01-04T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng mâm nhiệt",
+    "tenKTV": "Thái Thị Thanh",
+    "bienPhap": "Thay mâm nhiệt",
+    "trangThai": "Đã giao"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f01316da50dfa1ff140a1"
+  },
+  "thuongHieu": "Apple",
+  "tenSanPham": "Iphone 11 Pro",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 6000,
+    "dungLuong": 128,
+    "heDieuhanh": "IOS",
+    "mau": "đen",
+    "kichThuoc": "7.0 inches"
+  },
+  "gia": 17000000,
+  "ngayMua": {
+    "$date": "2023-07-03T17:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Đặng Minh Quang",
+    "diaChi": "Thành phố HCM",
+    "sđt": "0987651324",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Máy giặt",
+        "vanDe": "Hỏng bơm nước",
+        "bienPhap": "Thay bơm nước",
+        "ngayGiao": {
+          "$date": "2023-06-21T00:00:00.000Z"
+        }
+      }
+    ]
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-10-03T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng sạc",
+    "tenKTV": "Đinh Triệu Vỹ",
+    "bienPhap": "Thay sạc",
+    "trangThai": "Đang sửa"
+  }
+}]

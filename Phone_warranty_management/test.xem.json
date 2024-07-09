@@ -1,0 +1,780 @@
+[{
+  "_id": {
+    "$oid": "651ed92d5584ee9a585ca485"
+  },
+  "thuongHieu": "Apple",
+  "tenSanPham": "Iphone 12",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 2815,
+    "dungLuong": 125,
+    "heDieuhanh": "IOS 16",
+    "mau": "Đen",
+    "kichThuoc": "6.1 inches"
+  },
+  "gia": 15000000,
+  "ngayMua": {
+    "$date": "2023-08-15T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Lê Tấn Lộc",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": ""
+      }
+    ],
+    "sdt": "0356699999"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-10-10T00:00:00.000Z"
+    },
+    "vanDeYC": "Hư màn hình",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay màn hình",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ee01d5584ee9a585ca488"
+  },
+  "thuongHieu": "Apple",
+  "tenSanPham": "Iphone 13 Pro",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 3095,
+    "dungLuong": 125,
+    "heDieuhanh": "IOS 16",
+    "mau": "Xanh dương",
+    "kichThuoc": "6.1 inches"
+  },
+  "gia": 21000000,
+  "ngayMua": {
+    "$date": "2023-02-25T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Nguyễn Thị Kim Ngọc",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": ""
+      }
+    ],
+    "sdt": "0356688899"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-11-10T00:00:00.000Z"
+    },
+    "vanDeYC": "Nóng máy",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Update phiên bản",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ee1c45584ee9a585ca48a"
+  },
+  "thuongHieu": "Lenovo",
+  "tenSanPham": "Laptop Lenovo Ideapad 5 Pro 16ARH7",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 45,
+    "dungLuong": 521,
+    "heDieuhanh": "Windows 11",
+    "mau": "Đen",
+    "kichThuoc": "16 inches"
+  },
+  "gia": 20000000,
+  "ngayMua": {
+    "$date": "2023-03-12T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Vũ Quang Minh",
+    "diaChi": "Bến Tre",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Laptop Lenovo Ideapad 5 Pro 16ARH7",
+        "vanDe": "Lỗi hệ điều hành",
+        "bienPhap": "Cài lại hệ điều hành",
+        "ngayGiao": {
+          "$date": "2023-07-12T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0222299999"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-22T00:00:00.000Z"
+    },
+    "vanDeYC": "Hư bàn phím",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay bàn phím",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ee67f5584ee9a585ca48c"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Máy giặt Samsung Inverter",
+  "loaiSanPham": {
+    "tenLoai": "Điện gia dụng",
+    "longMay": "Ngang",
+    "khoiLuong": 8,
+    "chatLieu": "Thép không gỉ",
+    "trongLuong": "58 Kg",
+    "kichThuoc": "Cao 83.7 cm - Ngang 59.5 cm"
+  },
+  "gia": 6000000,
+  "ngayMua": {
+    "$date": "2022-01-12T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Nguyễn Văn Tuấn Anh",
+    "diaChi": "Bến Tre",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Iphone 13 Pro Max",
+        "vanDe": "Lỗi hệ điều hành",
+        "bienPhap": "Cài lại hệ điều hành",
+        "ngayGiao": {
+          "$date": "2022-06-12T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0222555999"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-22T00:00:00.000Z"
+    },
+    "vanDeYC": "Bẩn lồng giặt",
+    "tenKTV": "Văn San",
+    "bienPhap": "Vệ sinh lồng giặt",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ee7bb5584ee9a585ca48d"
+  },
+  "thuongHieu": "Hitachi",
+  "tenSanPham": "Tủ lạnh Hitachi Inverter",
+  "loaiSanPham": {
+    "tenLoai": "Điện lạnh",
+    "kieuTu": "2 cánh",
+    "dungTich": 339,
+    "congSuat": "1.04 kW/ngày",
+    "mau": "Đen",
+    "trongLuong": "64 Kg"
+  },
+  "gia": 13500000,
+  "ngayMua": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Phạm Tấn Đạt",
+    "diaChi": "Long An",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": {
+          "$date": "1970-01-01T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0222298890"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-07-02T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng thermic",
+    "tenKTV": "Văn Sang",
+    "bienPhap": "Thay thermic",
+    "trangThai": "Đã xong"
+  }
+},
+{
+  "_id": {
+    "$oid": "651eeb845584ee9a585ca48f"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Tủ lạnh Samsung Inverter",
+  "loaiSanPham": {
+    "tenLoai": "Điện lạnh",
+    "kieuTu": "2 cánh",
+    "dungTich": 243,
+    "congSuat": "0.97 kW/ngày",
+    "mau": "Đen",
+    "trongLuong": "45 Kg"
+  },
+  "gia": 6300000,
+  "ngayMua": {
+    "$date": "2020-06-22T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Bùi Nguyễn Hữu Minh",
+    "diaChi": "Tiền Giang",
+    "lichSuBH": {
+      "tenSanPham": "Laptop Dell Vostro 3520",
+      "vanDe": "Nóng máy",
+      "bienPhap": "Gữi về hãng",
+      "ngayGiao": {
+        "$date": "2022-09-30T00:00:00.000Z"
+      }
+    },
+    "sdt": "0222299990"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-10-02T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng thermic",
+    "tenKTV": "Văn Sang",
+    "bienPhap": "Thay thermic",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651eed965584ee9a585ca490"
+  },
+  "thuongHieu": "Sharp",
+  "tenSanPham": "Nồi chiên không dầu Sharp",
+  "loaiSanPham": {
+    "tenLoai": "Điện gia dụng",
+    "chatLieu": "Lòng nồi thép không gỉ phủ chống dính, Vỏ nhựa chịu nhiệt cao cấp",
+    "dungTich": 7,
+    "congSuat": "1650W",
+    "nhietDo": "80 - 200 độ C",
+    "trongLuong": "6.8 Kg"
+  },
+  "gia": 2815000,
+  "ngayMua": {
+    "$date": "2021-12-22T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Phạm Nguyễn Anh Tú",
+    "diaChi": "Đà Lạt",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": {
+          "$date": "1970-01-01T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0222219990"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-10-02T00:00:00.000Z"
+    },
+    "vanDeYC": "Nồi không nhận điện",
+    "tenKTV": "Văn Sang",
+    "bienPhap": "Thay phích cắm",
+    "trangThai": "Đã xong"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ef3925584ee9a585ca493"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Samsung Galaxy Z Flip5",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 3700,
+    "dungLuong": 256,
+    "heDieuHanh": "Android 13",
+    "mau": "Xanh lá",
+    "kichThuoc": "6.7 inches"
+  },
+  "gia": 22000000,
+  "ngayMua": {
+    "$date": "2023-06-12T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Nguyễn Trọng Nghĩa",
+    "diaChi": "Cà Mau",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Apple MacBook Air M1",
+        "vanDe": "Lỗi hệ điều hành",
+        "bienPhap": "Cài lại hệ điều hành",
+        "ngayGiao": {
+          "$date": "2022-06-12T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0222005999"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-05T00:00:00.000Z"
+    },
+    "vanDeYC": "Hư bản lề",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay bản lề",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ef5c65584ee9a585ca495"
+  },
+  "thuongHieu": "Asus",
+  "tenSanPham": "Laptop Asus TUF Gaming F15",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 45,
+    "dungLuong": 521,
+    "heDieuhanh": "Windows 11",
+    "mau": "Đen",
+    "kichThuoc": "15.6 inches"
+  },
+  "gia": 20000000,
+  "ngayMua": {
+    "$date": "2022-04-12T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Trần Quốc Cường",
+    "diaChi": "Bình Định",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": {
+          "$date": "1970-01-01T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0322299999"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-01-28T00:00:00.000Z"
+    },
+    "vanDeYC": "Hư camera",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay camera",
+    "trangThai": "Đã xong"
+  }
+},
+{
+  "_id": {
+    "$oid": "651efa675584ee9a585ca496"
+  },
+  "thuongHieu": "Asus",
+  "tenSanPham": "ASUS ROG Phone 6",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 6000,
+    "dungLuong": 256,
+    "heDieuhanh": "Android 12",
+    "mau": "Trắng",
+    "kichThuoc": "6.78 inches"
+  },
+  "gia": 15000000,
+  "ngayMua": {
+    "$date": "2023-02-15T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Chu Văn Thuận",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": ""
+      }
+    ],
+    "sdt": "0356699699"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-06-10T00:00:00.000Z"
+    },
+    "vanDeYC": "Hư màn hình",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay màn hình",
+    "trangThai": "Đã xong"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f047f5584ee9a585ca499"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Galaxy J7",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 3100,
+    "dungLuong": 64,
+    "heDieuhanh": "Android",
+    "mau": "Vàng",
+    "kichThuoc": "6.0 inches"
+  },
+  "gia": 6000000,
+  "ngayMua": {
+    "$date": "2019-07-17T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Ngô Gia Cường",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Tủ lạnh LG Inverter",
+        "vanDe": "Hỏng máy nén",
+        "bienPhap": "Thay máy nén",
+        "ngayGiao": {
+          "$date": "2023-09-02T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0987654321"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-10-10T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng loa",
+    "tenKTV": "Lương Duy Minh",
+    "bienPhap": "Thay loa",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f052d5584ee9a585ca49a"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Máy giặt Samsung Ecobubble Inverter",
+  "loaiSanPham": {
+    "tenLoai": "Điện lạnh",
+    "longMay": "Đứng",
+    "khoiLuong": 10,
+    "chatLieu": "Thép",
+    "trongLuong": 60,
+    "kichThuoc": "85x60"
+  },
+  "gia": 8000000,
+  "ngayMua": {
+    "$date": "2023-02-03T00:00:00.000Z"
+  },
+  "thoiGianBH": 15,
+  "khachHang": {
+    "hoten": "Nguyễn Mạnh An",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Bếp điện",
+        "vanDe": "Hỏng mâm nhiệt",
+        "bienPhap": "Thay mâm nhiệt",
+        "ngayGiao": {
+          "$date": "2023-06-10T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0987654322"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-13T17:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng bơm nước",
+    "tenKTV": "Văn Sang",
+    "bienPhap": "Thay bơm nước",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f05dd5584ee9a585ca49b"
+  },
+  "thuongHieu": "LG",
+  "tenSanPham": "Máy giặt",
+  "loaiSanPham": {
+    "tenLoai": "Điện lạnh",
+    "longMay": "Ngang",
+    "khoiLuong": 9,
+    "chatLieu": "Thép không gỉ",
+    "trongLuong": 55,
+    "kichThuoc": "80x65"
+  },
+  "gia": 7000000,
+  "ngayMua": {
+    "$date": "2023-07-11T17:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Hà Quang Hải",
+    "diaChi": "Phú Yên",
+    "lichSuBH": [
+      {
+        "tenSanPham": "",
+        "vanDe": "",
+        "bienPhap": "",
+        "ngayGiao": ""
+      }
+    ],
+    "sdt": "0987654323"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-14T17:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng động cơ",
+    "tenKTV": "Trần Hải Hùng",
+    "bienPhap": "Thay mới",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f060c5584ee9a585ca49c"
+  },
+  "thuongHieu": "Apple",
+  "tenSanPham": "IPhone 14 Plus",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 4325,
+    "dungLuong": 512,
+    "heDieuhanh": "IOS 17",
+    "mau": "Xám",
+    "kichThuoc": "6.7 inches"
+  },
+  "gia": 25490000,
+  "ngayMua": {
+    "$date": "2022-07-03T17:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Lê Quý Dân",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Apple Macbook Pro 13 M2 2022",
+        "vanDe": "Bể màn hình",
+        "bienPhap": "Thay màn hình",
+        "ngayGiao": {
+          "$date": "2023-01-22T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0987654324"
+  },
+  "yeuCauBH": {
+    "ngayYC": "2023-06-1",
+    "vanDeYC": "Hỏng màn hình",
+    "tenKTV": "Nguyễn Hoàng Bách",
+    "bienPhap": "Thay màn hình",
+    "trangThai": "Đã xong"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f070b5584ee9a585ca49d"
+  },
+  "thuongHieu": "Oppo",
+  "tenSanPham": "Oppo F9",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 5100,
+    "dungLuong": 64,
+    "heDieuhanh": "Android",
+    "mau": "Trắng",
+    "kichThuoc": "6.5 inches"
+  },
+  "gia": 9000000,
+  "ngayMua": {
+    "$date": "2022-04-22T00:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Cao Gia Mẫn",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Nồi cơm điện",
+        "vanDe": "Hỏng rơ le nhiệt",
+        "bienPhap": "Thay mới rơ le",
+        "ngayGiao": {
+          "$date": "2022-11-22T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0987654325"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-09-09T00:00:00.000Z"
+    },
+    "vanDeYC": "Lỗi cảm ứng",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay cảm ứng",
+    "trangThai": "Đã xong"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f07bd5584ee9a585ca4a0"
+  },
+  "thuongHieu": "Sunhouse",
+  "tenSanPham": "Nồi cơm cao tần Sunhouse",
+  "loaiSanPham": {
+    "tenLoai": "Điện gia dụng",
+    "dungTich": 2,
+    "Congsuat": 500,
+    "trongLuong": 2,
+    "chatlieu": "Nhôm",
+    "nhietDo": "60-100"
+  },
+  "gia": 1200000,
+  "ngayMua": {
+    "$date": "2021-04-25T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Phạm Nguyễn Anh",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Nồi cơm điện",
+        "vanDe": "Hỏng mâm nhiệt",
+        "bienPhap": "Thay mâm nhiệt",
+        "ngayGiao": {
+          "$date": "2022-03-10T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0987654355"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-04-28T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng cầu chì",
+    "tenKTV": "Văn Sang",
+    "bienPhap": "Thay mới",
+    "trangThai": "Đã xong"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f08885584ee9a585ca4a1"
+  },
+  "thuongHieu": "Samsung",
+  "tenSanPham": "Galaxy J10",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 5500,
+    "dungLuong": 128,
+    "heDieuhanh": "Android",
+    "mau": "Hồng",
+    "kichThuoc": "6.1 inches"
+  },
+  "gia": 9500000,
+  "ngayMua": {
+    "$date": "2022-12-14T00:00:00.000Z"
+  },
+  "thoiGianBH": 24,
+  "khachHang": {
+    "hoten": "Huỳnh Tuấn Kiệt",
+    "diaChi": "Long An",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Tủ lạnh Toshiba Inverter",
+        "vanDe": "Hỏng bơm nước",
+        "bienPhap": "Thay bơm nước",
+        "ngayGiao": {
+          "$date": "2023-05-29T17:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0987654925"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-05-25T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng màn hình",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay màn hình",
+    "trangThai": "Đang sửa"
+  }
+},
+{
+  "_id": {
+    "$oid": "651f08f25584ee9a585ca4a2"
+  },
+  "thuongHieu": "Apple",
+  "tenSanPham": "Iphone 11 Pro",
+  "loaiSanPham": {
+    "tenLoai": "Công nghệ",
+    "pin": 6000,
+    "dungLuong": 128,
+    "heDieuhanh": "IOS 16",
+    "mau": "Đen",
+    "kichThuoc": "7.0 inches"
+  },
+  "gia": 17000000,
+  "ngayMua": {
+    "$date": "2023-07-03T17:00:00.000Z"
+  },
+  "thoiGianBH": 12,
+  "khachHang": {
+    "hoten": "Đặng Minh Quang",
+    "diaChi": "Thành phố Hồ Chí Minh",
+    "lichSuBH": [
+      {
+        "tenSanPham": "Máy giặt",
+        "vanDe": "Hỏng bơm nước",
+        "bienPhap": "Thay bơm nước",
+        "ngayGiao": {
+          "$date": "2023-06-21T00:00:00.000Z"
+        }
+      }
+    ],
+    "sdt": "0987651324"
+  },
+  "yeuCauBH": {
+    "ngayYC": {
+      "$date": "2023-10-03T00:00:00.000Z"
+    },
+    "vanDeYC": "Hỏng sạc",
+    "tenKTV": "Minh Thương",
+    "bienPhap": "Thay sạc",
+    "trangThai": "Đã xong"
+  }
+}]
